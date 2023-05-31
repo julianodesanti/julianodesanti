@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianodesanti
 - 👀 I’m interested in computer network
-- 🌱 I’m currently learning pathping
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Microsoft Windows™
 - 📫 How to reach me @julianodesanti
 
