@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julianodesanti
 - 👀 I’m interested in branding
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on socio-environmental research
+- 💞️ I’m looking to collaborate in socioenvironmental research
 - 📫 How to reach me www.burysurf.com
 
 <!---
